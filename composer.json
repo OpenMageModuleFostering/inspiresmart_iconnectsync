@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/InspireSmart_IConnectSync",
+    "name": "OpenMageModuleFostering\/InspireSmart_IConnectSync",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "iConnect POS Sync allow you to synchronize orders from Magento into the iConnect POS.",
     "authors": [
-    {
-        "name": "InspireSmart inc.",
-        "email": "vgalanov@iconnectpos.com"
-    }
-],
+        {
+            "name": "InspireSmart inc.",
+            "email": "vgalanov@iconnectpos.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
